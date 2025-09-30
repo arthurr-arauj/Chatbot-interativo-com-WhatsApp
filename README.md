@@ -8,8 +8,7 @@ Ao enviar qualquer mensagem para o número da loja, o usuário recebe um *menu c
 
 ## 📸 Demonstração
 
-![Demonstração](https://github.com/arthurr-arauj/whatsapp-chatbot-node/assets/demo.gif)  
-(adicione aqui um GIF ou vídeo mostrando a interação com o bot)
+![Demonstração](Chatbot-interativo-com-WhatsApp/Gif chatbot.gif)  
 
 ---
 
@@ -46,16 +45,19 @@ Ao enviar qualquer mensagem para o número da loja, o usuário recebe um *menu c
 
 ### 2. Clonar o projeto
 
-bash
+```bash
 git clone https://github.com/arthurr-arauj/whatsapp-chatbot-node.git
 cd whatsapp-chatbot-node
+```
+
 
 
 ---
 
 ### 3. Instalar as dependências
-
+```
 npm install
+```
 
 
 ---
@@ -77,14 +79,17 @@ PORT=3000
 ---
 
 ### 5. Rodar o servidor
-bash
+```bash
 npx nodemon index.js
+```
 
 ---
 
 ### 6. Iniciar o ngrok
-bash
+
+```bash
 ngrok http 3000
+```
 
 
 
@@ -121,7 +126,9 @@ Olá! Bem-vindo à Loja Nova Era! Digite o número da opção desejada:
 
 Arthur Flávio Gonçalves Araújo
 Estudante de Sistemas de Informação na Universidade Federal de Uberlândia
+
 📍 Uberlândia - MG
+
 ✉ arthurflavio06@gmail.com
 
-🔗 LinkedI
+🔗 [LinkedIn](https://www.linkedin.com/in/arthur-fl%C3%A1vio/)
