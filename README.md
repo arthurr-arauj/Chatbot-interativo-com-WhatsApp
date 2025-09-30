@@ -8,7 +8,7 @@ Ao enviar qualquer mensagem para o número da loja, o usuário recebe um *menu c
 
 ## 📸 Demonstração
 
-![Demonstração](Chatbot-interativo-com-WhatsApp/Gif chatbot.gif)  
+![Demonstração](./demonstracao-chatbot.gif)  
 
 ---
 
